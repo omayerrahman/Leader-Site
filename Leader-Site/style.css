@@ -1,0 +1,31 @@
+body{
+    background-color: #F3F1FF;
+}
+
+.logo{
+    width: 40px;
+}
+
+.barpadding{
+    padding-left: 100px;
+}
+
+ul li{
+    padding-right: 25px;
+}
+
+.navbar-brand {
+    padding-right: 75px;
+}
+
+.player img{
+    width: 56px;
+}
+
+main{
+    max-width: 1000px;
+}
+
+.top-player{
+    background-color: white;
+}
